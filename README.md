@@ -96,5 +96,5 @@ Find plane, find platform \
 Dismantle motor, repair platform \
 "I need to stay" — the ending choice
 
-# **WITH LOVE,**
-# **SIMEON**
+**WITH LOVE,**  
+**SIMEON**
