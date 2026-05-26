@@ -96,4 +96,5 @@ Find plane, find platform \
 Dismantle motor, repair platform \
 "I need to stay" — the ending choice
 
-Thanks a lot for the game SAMPAD & AWEM but not finishing this game when ur 95% done with it, doesn't speak good for you! how hard is it, damn it. 
+# WITH LOVE,
+# SIMEON
