@@ -5,6 +5,10 @@ so island castaway lost world remain unfinished 10 years later, fuck u SAMPAD, G
 ![Preview](https://i.imgur.com/pfHzC3s.png)
 
 ## SPOILER ALERT
+
+lets don't forget that, there is hotkeys and voice overs in this game no one knows about cuz devs hiding them as they please...
+also im not giving splashscreens for topic12+ upto 18 
+
 # TOPIC 12
  
 Evil sundews attack, boss attacks at locations 5-8 \
