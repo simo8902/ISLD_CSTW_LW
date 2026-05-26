@@ -2,7 +2,7 @@
 
 so island castaway lost world remain unfinished 10 years later, fuck u SAMPAD, G5, AWEM and so in that number...
 
-https://i.ibb.co/67SVn16y/adfgadfgadgf.png
+https://i.imgur.com/pfHzC3s.png
 
 ## SPOILER ALERT:
 
