@@ -4,6 +4,8 @@ so island castaway lost world remain unfinished 10 years later, fuck u SAMPAD, G
 
 ![Preview](https://i.imgur.com/mHVLgFu.png)
 
+CRC hashing algorithm: profiles.xml dwTime = CRC32(profileN.xml bytes, LF-normalized) XOR 0xFF00FF00
+
 ## SPOILER ALERT
 
 lets don't forget that, there is hotkeys and voice overs in this game no one knows about cuz devs hiding them as they please...
